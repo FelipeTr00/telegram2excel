@@ -1,0 +1,4 @@
+.env
+**/__pycache__/
+my_telegram_session.session
+telegram2excel.spec
