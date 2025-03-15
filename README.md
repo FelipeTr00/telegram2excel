@@ -1,4 +1,4 @@
-# Telegram to Excel (telegram2excel)
+<h1 align="center">Telegram to Excel (telegram2excel)</h1> 
 
 ## Visão Geral
 O `telegram2excel` é um projeto desenvolvido em Python para automatizar o envio de mensagens pelo Telegram, utilizando dados extraídos de um arquivo Excel. Além disso, o projeto pode ser empacotado como um executável standalone utilizando o `pyinstaller`.
@@ -9,18 +9,9 @@ O `telegram2excel` é um projeto desenvolvido em Python para automatizar o envio
 
 ## Tecnologias
 <p align="center">
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="src/img/python.png" width="100"/>
-    <figcaption>Python</figcaption>
-  </figure>
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="src/img/vba.png" width="100"/>
-    <figcaption>VBA</figcaption>
-  </figure>
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="src/img/excel.png" width="100"/>
-    <figcaption>Excel</figcaption>
-  </figure>
+  <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/python.png" alt="Python" width="100" style="margin: 10px;">
+  <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/vba.png" alt="VBA" width="100" style="margin: 10px;">
+  <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/excel.png" alt="Excel" width="100" style="margin: 10px;">
 </p>
 
 ## Requisitos
