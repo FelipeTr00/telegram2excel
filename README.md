@@ -9,6 +9,7 @@ O `telegram2excel` é um projeto desenvolvido em Python para automatizar o envio
 
 ## Tecnologias
 <p align="center">
+  <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/telegram.svg" alt="Telegram" width="100" style="margin: 10px;">
   <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/python.png" alt="Python" width="100" style="margin: 10px;">
   <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/vba.png" alt="VBA" width="100" style="margin: 10px;">
   <img src="https://github.com/FelipeTr00/telegram2excel/blob/main/src/img/excel.png" alt="Excel" width="100" style="margin: 10px;">
