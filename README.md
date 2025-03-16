@@ -59,7 +59,7 @@ TELETHON-01914.READTHEDOCS.IO
 1. Prepare um arquivo Excel contendo os contatos e mensagens que deseja enviar.
 2. Execute o script principal para iniciar o envio de mensagens:
    ```sh
-   py -m src/server.py "+55(DDD)SEU-NÚMERO" "SUA MENSAGEM"
+   py -m src.login
    ```
    A primeira execução do server.py o Telegram fará a verificação do número e código de segurança, que serão armazenadas em um arquivo de autenticação.
 
@@ -87,6 +87,7 @@ TELETHON-01914.READTHEDOCS.IO
 telegram2excel/
 │-- src/
 │   │-- server.py        # Script principal
+│   │-- login.py         # Script de inicialização da sessão/login
 │   │-- Modulo.vba       # Módulo de integração com Excel
 │-- config.json          # Configurações do Telegram
 │-- requirements.txt     # Dependências do projeto
