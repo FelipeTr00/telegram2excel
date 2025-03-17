@@ -86,13 +86,15 @@ TELETHON-01914.READTHEDOCS.IO
 ```
 telegram2excel/
 │-- src/
-│   │-- server.py        # Script principal
 │   │-- login.py         # Script de inicialização da sessão/login
+│   │-- server.py        # Script principal ← ← ← ← ← ← ← ← ← ← ← ← 
+│   │-- sendMessages.py  # Enviar mensagens diretamente pelo Python
 │   │-- Modulo.vba       # Módulo de integração com Excel
 │-- config.json          # Configurações do Telegram
 │-- requirements.txt     # Dependências do projeto
 │-- README.md            # Documentação do projeto
-│-- TELEGRAM2.xlsm       # Executar o Projeto (EXCEL) ← ← ← ← ← ← ←
+│-- TELEGRAM.xlsm        # Executar o Projeto (EXCEL) ← ← ← ← ← ← ←
+│-- Mensagens.xlsx       # Enviar mensagens diretamente (Python)
 ```
 
 ## Motivação
